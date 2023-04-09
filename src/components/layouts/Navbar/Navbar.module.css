@@ -1,0 +1,10 @@
+.outletContainer{
+    min-height: 80vh;
+}
+
+.buttonBack{
+    background-color: rgba(12, 206, 190);
+    color: green;
+    border: none;
+    font-size: larger;
+}

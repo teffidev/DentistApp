@@ -1,0 +1,21 @@
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.image{
+    margin-top: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.container-light{
+    background-color: white;
+    color: black;
+    
+}
+.container-dark{
+    background-color: black;
+    color: white;
+}
+
